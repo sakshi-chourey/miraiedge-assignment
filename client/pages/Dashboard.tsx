@@ -64,7 +64,7 @@ export default function Dashboard() {
           </p>
         </div>
         <div className="flex flex-col sm:flex-row gap-3 flex-shrink-0">
-          <Button className="w-full sm:w-auto bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600">
+          <Button variant="secondary" className="w-full sm:w-auto">
             <FileBarChart className="w-4 h-4 mr-2" />
             Export
           </Button>
