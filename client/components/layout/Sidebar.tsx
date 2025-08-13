@@ -46,13 +46,13 @@ export function Sidebar() {
           <div className="flex items-center justify-between h-16 px-6 border-b border-gray-200 dark:border-gray-700">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                  <LayoutDashboard className="w-5 h-5 text-white" />
+                <div className="w-10 h-10 rounded-lg flex items-center justify-center">
+                  <img src="/favicon.ico" alt="Logo" className="w-10 h-10 rounded-full" />
                 </div>
               </div>
               <div className="ml-3">
                 <h1 className="text-xl font-semibold text-gray-900 dark:text-white">
-                  AdminPro
+                  MiraiEdge
                 </h1>
               </div>
             </div>
