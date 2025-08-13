@@ -3,7 +3,6 @@ import {
   LayoutDashboard, 
   Users, 
   FileBarChart,
-  Settings,
   LogOut,
   Menu,
   X
@@ -14,7 +13,6 @@ const navigation = [
   { name: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
   { name: "Users", href: "/users", icon: Users },
   { name: "Reports", href: "/reports", icon: FileBarChart },
-  { name: "Settings", href: "/settings", icon: Settings },
 ];
 
 export function Sidebar() {

@@ -51,9 +51,9 @@ export function TopNavbar() {
             <p className="text-sm font-medium text-gray-900 dark:text-white">Admin User</p>
             <p className="text-xs text-gray-500 dark:text-gray-400">admin@example.com</p>
           </div>
-          <DropdownItem>Profile Settings</DropdownItem>
+          {/* <DropdownItem>Profile Settings</DropdownItem> */}
           <DropdownItem>Billing</DropdownItem>
-          <DropdownItem>Team Settings</DropdownItem>
+          {/* <DropdownItem>Team Settings</DropdownItem> */}
           <DropdownSeparator />
           <DropdownItem>Log out</DropdownItem>
         </Dropdown>
