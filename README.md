@@ -38,7 +38,5 @@ This project is a modern React admin dashboard built with Vite, Tailwind CSS, an
 If deployed, the live demo is available at:
 
 ```
-[YOUR_DEPLOYMENT_URL_HERE]
+https://miraiedge-assignment.vercel.app
 ```
-
-Replace with your actual deployment link if available (e.g., Vercel, Netlify, etc.).
